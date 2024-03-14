@@ -1,2 +1,2 @@
-# lifeeasy-chat-server
-Lifeeasy Chat Server
+# nodejs-typescript-server
+Getting started with Nodejs Typescript server
